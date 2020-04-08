@@ -1,0 +1,31 @@
+
+
+	Lab 1 : Roboti
+	
+	Fighting robot:
+		id : int
+		weight : int
+		
+		
+	Smart Robot:
+		id: int
+		iq : int
+		
+	Flying Robot:
+		id: int
+		speed : long
+	
+	UnderWater Robot:
+		id: int
+		timeUnderWater: int
+		
+	Rank:
+		rank id : int
+		rank name : int
+		
+	Maze Solver Tournament:
+		TId : int
+		RobotId
+		
+		
+		
